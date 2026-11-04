@@ -1,0 +1,31 @@
+{
+  "categories": ["技能来源"],
+  "entries": [
+    {
+      "id": "skill0",
+      "displayName": "skill0",
+      "description": {
+        "en": "skill0.io skill content source (agent tools and TUI only), integrated via the registry capability",
+        "zh": "skill0.io 技能内容来源（仅 agent 工具与 TUI 可用），经 registry capability 集成"
+      },
+      "version": "1.0.0",
+      "apiVersion": 1,
+      "downloadUrl": "plugins/skill0-1.0.0.zip",
+      "author": { "name": "OpenDesk Team" },
+      "homepage": "https://gitcode.com/OpenDesk-Community"
+    },
+    {
+      "id": "skillsmp",
+      "displayName": "SkillsMP",
+      "description": {
+        "en": "SkillsMP skill content source (API key required), integrated via the registry capability",
+        "zh": "SkillsMP 技能内容来源（需 API Key），经 registry capability 集成"
+      },
+      "version": "1.0.0",
+      "apiVersion": 1,
+      "downloadUrl": "plugins/skillsmp-1.0.0.zip",
+      "author": { "name": "OpenDesk Team" },
+      "homepage": "https://gitcode.com/OpenDesk-Community"
+    }
+  ]
+}
